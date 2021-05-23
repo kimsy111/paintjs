@@ -64,3 +64,7 @@ body {
 .controls .controls__range {
   margin-bottom: 30px;
 }
+
+.controls__colors :active {
+  transform: scale(0.95);
+}
